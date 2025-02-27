@@ -10,7 +10,7 @@ I'm a self-taught passionate Software Developer focused on Java💙.
 - ❤️ I love writing Java Code, and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/anishnl/anishnl/issues)
-- <p align='center'>
+ <p align='center'>
 <a href="">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=black"/></a>
 <a href="https://www.instagram.com/mr_soul_taker_28/" target="blank">
