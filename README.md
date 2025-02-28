@@ -28,13 +28,9 @@ I'm a self-taught passionate Software Developer focused on Java💙.
 <h1 align="center">Github Stats</h1>
 
 <div align="center">
-  
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=anishnl&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anishnl)](https://git.io/streak-stats)
-
- </div>
-
- <img align="left" alt="Anish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anishnl&&show_icons=true&theme=dark" width="50%" />
+<img align="left" alt="Anish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anishnl&&show_icons=true&theme=dark" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishnl&layout=compact&theme=dark" width="46%" />
 <br>
