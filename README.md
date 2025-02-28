@@ -4,7 +4,8 @@
 [![GitHub avinash201199](https://img.shields.io/github/followers/anishnl?label=follow&style=social)](https://github.com/anishnl)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm a self-taught passionate Software Developer focused on Java💙.
+
+I'm a passionate and results-driven **Java Developer** with a solid understanding of Object-Oriented Programming (OOP) and experience in building robust and scalable applications. I am always looking to expand my knowledge and explore new technologies to create high-performance, efficient solutions.
 
 - 💼 Software Engineer at [Quadruple Automation](https://www.quadrupleautomation.com/)
 
@@ -14,7 +15,34 @@ I'm a self-taught passionate Software Developer focused on Java💙.
 
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 
------
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+- **Java** (Proficient)
+- **SQL** (Intermediate)
+- **JavaScript** (Intermediate)
+- **HTML/CSS** (Intermediate)
+
+### Frameworks & Libraries
+- **Spring Boot**
+- **Hibernate / JPA**
+- **Spring Security**
+- **Junit / Mockito**
+
+### Databases
+- **MySQL**
+- **MSSQL**
+
+### Tools & Technologies
+- **Git** / **GitHub**
+- **Maven** / **Gradle**
+- **Docker**
+- **Jira**
+- **FTPC**
+
+---
 ### 📫 &nbsp; How to reach me:
 
 <a href="https://www.linkedin.com/in/anishnl/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
