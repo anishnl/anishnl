@@ -36,13 +36,24 @@ I'm a passionate and results-driven **Java Developer** with a solid understandin
 - **Spring Security**
 - **Junit / Mockito**
 
+### Web Technologies
+- **RESTful APIs**
+- **SOAP**
+- **JSON**
+- **XML**
+
 ### Databases
 - **MySQL**
 - **MSSQL**
 
+### Methodologies
+- **Agile**
+- **Scrum**
+
 ### Tools & Technologies
 - **Git** / **GitHub**
 - **Maven** / **Gradle**
+- **IntelliJ IDEA**
 - **Docker**
 - **Jira**
 - **FTPC**
