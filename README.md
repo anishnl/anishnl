@@ -73,7 +73,7 @@ I'm a passionate and results-driven **Java Developer** with a solid understandin
 
 <div align="center">
   
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=anishnl&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=anishnl&theme=highcontrast)](https://github.com/anishnl/github-readme-streak-stats)
 
 </div>
 
