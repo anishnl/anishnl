@@ -6,7 +6,7 @@
 </p>
 
 ![profile count](https://komarev.com/ghpvc/?username=anishnl&color=blue)&nbsp;
-[![GitHub avinash201199](https://img.shields.io/github/followers/anishnl?label=follow&style=social)](https://github.com/anishnl)&nbsp;
+[![GitHub anishnl](https://img.shields.io/github/followers/anishnl?label=follow&style=social)](https://github.com/anishnl)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
 
@@ -72,9 +72,7 @@ I'm a passionate and results-driven **Java Developer** with a solid understandin
 <h1 align="center">Github Stats</h1>
 
 <div align="center">
-  
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=anishnl&theme=highcontrast)
-
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=anishnl&theme=highcontrast)]
 </div>
 
 <img align="left" alt="Anish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anishnl&&show_icons=true&theme=dark" width="50%" />
