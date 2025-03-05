@@ -72,7 +72,9 @@ I'm a passionate and results-driven **Java Developer** with a solid understandin
 <h1 align="center">Github Stats</h1>
 
 <div align="center">
+  
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=anishnl&theme=highcontrast)]
+
 </div>
 
 <img align="left" alt="Anish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anishnl&&show_icons=true&theme=dark" width="50%" />
